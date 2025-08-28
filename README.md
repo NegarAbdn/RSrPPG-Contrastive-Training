@@ -15,8 +15,8 @@ It demonstrates the **contrastive training stage** of RS-rPPG (Remote Photopleth
 ---
 
 ## Files in this Repository
-- `trained_modified_version.py` — contrastive training on a **single dataset**  
-- `trained_modified_version_multi.py` — contrastive training on **multiple datasets**
+- `trained_modified.py` — contrastive training on a **single dataset**  
+- `trained_modified_multi.py` — contrastive training on **multiple datasets**
 
 These are the core training scripts ; they refine RS-rPPG for realistic, compressed-video scenarios.
 
