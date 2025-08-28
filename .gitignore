@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Trained models and checkpoints
+*.pt
+
+# Logs and results
+*.txt
+*.log
+
+# Plots and figures
+*.png
+*.jpg
+
+# Output folders
+output_trained/
+output_pretrained/
+train_output/
+
+# Misc
+.DS_Store
